@@ -23,5 +23,5 @@ I am passionate about coding and have strong database management skills. I enjoy
 
 ## Let's Connect!
 
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rodel-angelo-0022b32a3/)
 - Email: rodel.angelo11@gmail.com
