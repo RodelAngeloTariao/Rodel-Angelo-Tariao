@@ -1,6 +1,8 @@
 # Hello, I'm Rodel Angelo Tariao
 
-I am passionate about coding and have strong database management skills. I enjoy solving complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program.
+## About me:
+
+I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 ## Education
 
